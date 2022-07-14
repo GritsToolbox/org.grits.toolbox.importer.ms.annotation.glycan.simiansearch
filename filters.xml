@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<filtersLibrary>
+    <filter filterGlyde="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;GlydeII&gt;&lt;molecule subtype=&quot;glycan&quot; id=&quot;From_GlycoCT_Translation&quot;&gt;&lt;residue subtype=&quot;base_type&quot; partid=&quot;1&quot; ref=&quot;http://www.monosaccharideDB.org/GLYDE-II.jsp?G=x-dgal-HEX-1:5&quot; /&gt;&lt;residue subtype=&quot;base_type&quot; partid=&quot;2&quot; ref=&quot;http://www.monosaccharideDB.org/GLYDE-II.jsp?G=a-dgal-HEX-1:5&quot; /&gt;&lt;residue_link from=&quot;2&quot; to=&quot;1&quot;&gt;&lt;atom_link from=&quot;C1&quot; to=&quot;O3&quot; to_replaces=&quot;O1&quot; bond_order=&quot;1&quot; /&gt;&lt;/residue_link&gt;&lt;/molecule&gt;&lt;/GlydeII&gt;" filterName="GalGal"/>
+</filtersLibrary>

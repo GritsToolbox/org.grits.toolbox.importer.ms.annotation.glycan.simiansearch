@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database description="O-Glycans from the GlycO ontology." name="O-Glycan Test" structureCount="3">
+    <glycan GWBSequence="freeEnd--?a1D-GalNAc,p--3b1D-Gal,p$MONO,perMe,0,0,freeEnd" id="GOG922"/>
+    <glycan GWBSequence="freeEnd--?a1D-Man,p--2b1D-GlcNAc,p$MONO,perMe,0,0,freeEnd" id="GOG1633"/>
+    <glycan GWBSequence="freeEnd--?a1D-Man,p--4b1D-GlcNAc,p$MONO,perMe,0,0,freeEnd" id="GOG1634"/>
+</database>

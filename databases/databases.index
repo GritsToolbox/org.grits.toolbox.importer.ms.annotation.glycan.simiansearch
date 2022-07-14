@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<databaseIndex>
+    <database name="All glycans" description="All structures from the GlycO ontology." structures="1692" file="All-Glycan.xml"/>
+    <database name="All glycans (topology)" description="Only distinct topologies (no linkage information) from the GlycO ontology." structures="1332" file="All-Glycan-topology.xml"/>
+    <database name="GSL glycans" description="Glycosphingolipid glycans from the GlycO ontology." structures="285" file="GSL-Glycan.xml"/>
+    <database name="GSL glycans (topology)" description="Glycosphingolipid glycans topologies (no linkage information) from the GlycO ontology" structures="225" file="GSL-Glycan-topology.xml"/>
+    <database name="N-glycans" description="N-Glycans from the GlycO ontology." structures="1190" file="N-Glycan.xml"/>
+    <database name="N-glycans (topology)" description="N-Glycan topologies (no linkage information) from the GlycO ontology." structures="913" file="N-Glycan-topology.xml"/>
+    <database name="O-glycans" description="O-Glycans from the GlycO ontology." structures="217" file="O-Glycan.xml"/>
+    <database name="O-glycans (topology)" description="O-Glycan topologies (no linkage information) from the GlycO ontology" structures="194" file="O-Glycan-topology.xml"/>
+    <database name="All glycans (superclass)" description="All structures from the GlycO ontology. (Superclass database: no linkage information, anomer or monosaccharide configuration)"  structures="1308" file="All-Glycan-superclass.xml"/>
+    <database name="N-glycans (superclass)" description="N-Glycans from the GlycO ontology. (Superclass database: no linkage information, anomer or monosaccharide configuration)"  structures="912" file="N-Glycan-superclass.xml"/>
+    <database name="O-glycans (superclass)" description="O-Glycans from the GlycO ontology. (Superclass database: no linkage information, anomer or monosaccharide configuration)"  structures="192" file="O-Glycan-superclass.xml"/>
+</databaseIndex>

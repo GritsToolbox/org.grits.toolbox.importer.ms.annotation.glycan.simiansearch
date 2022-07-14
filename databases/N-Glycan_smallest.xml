@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database description="N-Glycans from the GlycO ontology." name="N-Glycan Small" structureCount="5">
+    <glycan GWBSequence="freeEnd--?a1D-GlcNAc,p--4b1D-GlcNAc,p--4b1D-Man,p(--3a1D-Man,p--2a1D-Man,p--2a1D-Man,p)--6a1D-Man,p(--3a1D-Man,p--2a1D-Man,p)--6a1D-Man,p$MONO,perMe,0,0,freeEnd" id="GOG975"/>
+</database>

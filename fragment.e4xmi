@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_L3TtYJesEeaQyJVS-36HMg">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_NBV3kJesEeaQyJVS-36HMg" featurename="children" parentElementId="org.grits.toolbox.entry.ms.annotation.glycan.menu.msglycanannotation">
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_n99PAJesEeaQyJVS-36HMg" elementId="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.handledmenuitem.newgelatoannotation" label="New GELATO Annotation" iconURI="platform:/plugin/org.grits.toolbox.entry.ms.annotation.glycan/icons/IconAnnotation.png" command="_4s7GsJesEeaQyJVS-36HMg"/>
+    <elements xsi:type="menu:MenuSeparator" xmi:id="_kAdCMJetEeaQyJVS-36HMg" elementId="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.menuseparator.0"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_1_B9EJesEeaQyJVS-36HMg" featurename="commands" parentElementId="org.grits.toolbox.core.application">
+    <elements xsi:type="commands:Command" xmi:id="_4s7GsJesEeaQyJVS-36HMg" elementId="ms.annotation.gelato.command.ShowWizard" commandName="NewGELATOGlycanAnnotation"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_DJelIJetEeaQyJVS-36HMg" featurename="handlers" parentElementId="org.grits.toolbox.core.application">
+    <elements xsi:type="commands:Handler" xmi:id="_FEYyoJetEeaQyJVS-36HMg" elementId="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.handler.0" contributionURI="bundleclass://org.grits.toolbox.importer.ms.annotation.glycan.simiansearch/org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.handler.OpenGelatoWizard" command="_4s7GsJesEeaQyJVS-36HMg"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_RVBd0JetEeaQyJVS-36HMg" featurename="children" parentElementId="org.grits.toolbox.core.menu.main.grits.new">
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_UcV0EJetEeaQyJVS-36HMg" elementId="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.handledmenuitem.gelatoannotation" label="MS GELATO Annotation" iconURI="platform:/plugin/org.grits.toolbox.entry.ms.annotation.glycan/icons/IconAnnotation.png" command="_4s7GsJesEeaQyJVS-36HMg"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_YrR5sJetEeaQyJVS-36HMg" featurename="children" parentElementId="org.grits.toolbox.core.menu.projectexplorer.popup.submenu.new">
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_bbafAJetEeaQyJVS-36HMg" elementId="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.handledmenuitem.gelatoannotation" label="MS GELATO Annotation" iconURI="platform:/plugin/org.grits.toolbox.entry.ms.annotation.glycan/icons/IconAnnotation.png" command="_4s7GsJesEeaQyJVS-36HMg"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_nuZXsCEiEee93_TNp1fXXA" featurename="children" parentElementId="org.grits.toolbox.core.toolbar.main">
+    <elements xsi:type="menu:HandledToolItem" xmi:id="_q416cCEiEee93_TNp1fXXA" elementId="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.handledtoolitem.newgelatoannotation" label="New MS GELATO Annotation" iconURI="platform:/plugin/org.grits.toolbox.entry.ms.annotation.glycan/icons/IconAnnotation.png" tooltip="Create a new GELATO Glycan Annotation" command="_4s7GsJesEeaQyJVS-36HMg"/>
+  </fragments>
+</fragment:ModelFragments>

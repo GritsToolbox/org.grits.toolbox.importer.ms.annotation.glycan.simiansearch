@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+   <extension
+         id="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.fragment"
+         point="org.eclipse.e4.workbench.model">
+      <fragment
+            uri="fragment.e4xmi">
+      </fragment>
+   </extension>
+   <extension
+         point="org.grits.toolbox.core.preferencePages">
+      <page
+            category="org.grits.toolbox.entry.ms.annotation.glycan.all"
+            class="org.grits.toolbox.importer.ms.annotation.glycan.simiansearch.preference.MSGlycanAnnotationPreferencePage"
+            id="org.grits.toolbox.entry.ms.annotation.glycan.settings"
+            name="Annotation Settings">
+      </page>
+   </extension>
+
+</plugin>
